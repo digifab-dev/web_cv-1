@@ -1,8 +1,7 @@
 ---
-title: Master, Webdevelopment
-organization: SAE Institute
-organizationUrl: https://www.sae.edu
-location: Vienna, AT
-start: 2014-01-30
-end: 2016-08-14
+title: Bachelor's Degree, International Management & Business
+organization: Radboud University
+location: Nijmegen, NL
+start: 2017-08-16
+end: 2018-06-15
 ---
