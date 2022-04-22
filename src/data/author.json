@@ -1,12 +1,12 @@
 {
-    "name": "Anna Quincey",
+    "name": "Nathan Teissier",
     "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
-    "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "location": "Vetraz-Monthoux, FR",
+    // "avatar": "avatar.jpg",
+    "pronouns": "he/him",
+    "email": "nmteissier@gmail.com",
+    "telephone": "+33 6 12 50 94 48",
+    // "website": "https://annaquincey.dev",
     "skills": [
         "HTML",
         "CSS",
@@ -17,28 +17,28 @@
     ],
     "languages": [
         {
-            "name": "English",
+            "name": "French",
             "level": "native"
         },
         {
-            "name": "German",
+            "name": "English",
             "level": "fluent"
         },
         {
-            "name": "French",
+            "name": "Italian",
             "level": "basic"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@LuigiVampa21",
+            "url": "https://github.com/LuigiVampa21"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "Nathan Teissier",
+            "url": "https://www.linkedin.com/in/nathan-teissier/"
         }
     ]
 }
