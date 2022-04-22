@@ -1,5 +1,5 @@
 ---
-title: Head Bnaquet Waiter
+title: Head Banquet Waiter
 organization: La Reserve Hotel *****
 organizationUrl: https://www.lareserve-geneve.com/
 location: Geneva, CH
