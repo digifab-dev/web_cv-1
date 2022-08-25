@@ -1,18 +1,24 @@
 {
     "name": "Nathan Teissier",
-    "occupation": "Front-End Developer",
-    "location": "Vetraz-Monthoux, FR",
+    "occupation": "Full Stack Developer Junior",
+    "location": "Nîmes, FR",
     "avatar": "img-cv.JPG",
     "pronouns": "he/him",
     "email": "nmteissier@gmail.com",
     "telephone": "+33 6 12 50 94 48",
     "skills": [
-        "HTML",
-        "CSS",
+        "AngularJS",
+        "NodeJS",
+        "Express",
+        "MongoDB",
+        "PostgreSQL",
         "Javascript / ES6",
+        "UML",
+        "Docker",
         "UI Design",
-        "React",
-        "Git"
+        "Git",
+        "CSS3",
+        "HTML5"
     ],
     "languages": [
         {

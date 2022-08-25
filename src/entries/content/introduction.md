@@ -3,5 +3,4 @@ tags: introduction
 title: About Me
 ---
 
-Former Optician and Restaurant manager turned web developer.
-Recently graduate from Digifab. My focus is on creating engaging, accessible & performant interfaces for humans. Looking for opportunities in finance applications / softwares.
+Young and motivated person, who aspire to become a real professionnal in the web realm, currently on my way to get the 'Web and App conceptor' certifcate. My focus is on creating engaging, accessible & performant interfaces for peoples.
